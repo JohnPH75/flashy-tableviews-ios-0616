@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DA91C3C508555297673AF03A6251BCBFC21456F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DA91C3C508555297673AF03A6251BCBFC21456F7" : 0,
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13D73D25-F2E8-4F9D-98A6-FFC61687C6E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DA91C3C508555297673AF03A6251BCBFC21456F7" : "flashy-tableviews-ios-0616\/",
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : "..\/SWTableViewCell"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "flashyTableviews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "flashyTableviews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CEWendel\/SWTableViewCell.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnPH75\/flashy-tableviews-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA91C3C508555297673AF03A6251BCBFC21456F7"
+    }
+  ]
+}
